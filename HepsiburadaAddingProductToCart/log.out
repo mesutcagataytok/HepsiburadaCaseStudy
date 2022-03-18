@@ -1,0 +1,1400 @@
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 14244 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4b6953ed
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x1d363c6bac2e1f39
+Hepsiburada title alındı: Hepsiburada
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 8196 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1c8fde92
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0xb226c4807abe8d72
+Hepsiburada title alındı: Hepsiburada
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 7740 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@bdab764
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x640472e47edaae4b
+Hepsiburada title alındı: Hepsiburada
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 7556 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4b6953ed
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0xfed358265d880c57
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 9916 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@bdab764
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x1f3b4720b5398486
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 15972 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7729379b
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0xac8d2f916b0c26bc
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 15288 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7e09a2ef
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x12da96f222883406
+Hepsiburada title alındı: Hepsiburada
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 12476 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@81a8a50
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x3f1094d4d8ca4a6d
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 3232 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7d4e196a
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x218f9f76629ebfee
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 5276 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4b6953ed
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x5af5b6bf67bfd434
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 11964 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3f15854f
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x8b7e8f9d501242ef
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 12060 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@667238a2
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x0010a88cbc90abdb
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 928 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7d4e196a
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x593c9d43e250f26e
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 6788 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5dca2dbe
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x70041b6b94a38606
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 15516 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3f50c8e8
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x04685eb14d139e99
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1b1473ab
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 4984 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@667238a2
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0xdd743e5b0433be85
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 15024 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@18a0943c
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x745cbef3d159c718
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1b1473ab
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 18744 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1bde2dd9
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x2f774f99ec018e3f
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1b1473ab
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 4684 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7d4e196a
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x4087b7f52f8800ad
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 18540 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@33e5b96c
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x0a0608bf2d106ecf
+Hepsiburada title alındı: Hepsiburada
+Hesaba başarılı giriş yapıldı.
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 17312 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1c8fde92
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0xfc5ec0287297bd80
+Hepsiburada title alındı: Hepsiburada
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
+Using Log4J as the default logging framework
+-Dio.netty.leakDetection.level: sımple
+-Dio.netty.leakDetection.targetRecords: 4
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@460d0a57
+-Dio.netty.noUnsafe: false
+Java version: 8
+sun.misc.Unsafe.theUnsafe: available
+sun.misc.Unsafe.copyMemory: available
+java.nio.Buffer.address: available
+direct buffer constructor: available
+java.nio.Bits.unaligned: available, true
+jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+java.nio.DirectByteBuffer.<init>(long, int): available
+sun.misc.Unsafe: available
+-Dio.netty.tmpdir: C:\Users\USER\AppData\Local\Temp (java.io.tmpdir)
+-Dio.netty.bitMode: 64 (sun.arch.data.model)
+Platform: Windows
+-Dio.netty.maxDirectMemory: 1897922560 bytes
+-Dio.netty.uninitializedArrayAllocationThreshold: -1
+java.nio.ByteBuffer.cleaner(): available
+-Dio.netty.noPreferDirect: false
+org.jctools-core.MpscChunkedArrayQueue: available
+-Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+-Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+-Dio.netty.eventLoopThreads: 8
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+-Dio.netty.allocator.numHeapArenas: 8
+-Dio.netty.allocator.numDirectArenas: 8
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 8488 (auto-detected)
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 70:54:d2:ff:fe:89:ab:e0 (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2bab829a
+-Dio.netty.recycler.maxCapacityPerThread: 4096
+-Dio.netty.recycler.maxSharedCapacityFactor: 2
+-Dio.netty.recycler.linkCapacity: 16
+-Dio.netty.recycler.ratio: 8
+-Dio.netty.recycler.delayedQueue.ratio: 8
+brotli4j not in the classpath; Brotli support will be unavailable.
+-Dio.netty.initialSeedUniquifier: 0x4f9677a764b72564
+Hepsiburada title alındı: Hepsiburada
+iphone araması yapıldığı doğrulanıyor
+Aranan ürünle ilgili sonuç bulundu.
